@@ -1,0 +1,14 @@
+{
+  "name": "open_door",
+  "version": "1.0.0",
+  "description": "site for training and/or testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "214_Mel_Mel",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
